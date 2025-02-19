@@ -5,11 +5,11 @@
 
 
 ## Table of Contents
-* General Info
-* Model Architecture
-* Technologies Used
-* Acknowledgements
-* Collaborators
+* [General Info](#gi)
+* [Model Architecture](#ma)
+* [Technologies Used](#tu)
+* [Acknowledgements](#ack)
+* [Collaborators](#colab)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -65,13 +65,12 @@ The break down of the final provided CNN architecture step by step:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- UpGrad tutorials on Convolution Neural Networks (CNNs) on the learning platform
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ND781] - feel free to contact me!
 
 
 <!-- Optional -->
