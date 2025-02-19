@@ -7,8 +7,6 @@
 ## Table of Contents
 * General Info
 * Model Architecture
-* Model Summary
-* Model Evaluation
 * Technologies Used
 * Acknowledgements
 * Collaborators
@@ -19,7 +17,7 @@
 ## General Information
 - The dataset comprises 2357 images depicting malignant and benign oncological conditions, sourced from the International Skin Imaging Collaboration (ISIC). These images were categorized based on the classification provided by ISIC, with each subset containing an equal number of images.
 
-#Model Architecture
+## Model Architecture
 The break down of the final provided CNN architecture step by step:
 
 - Data Augmentation: The augmentation_data variable refers to the augmentation techniques applied to the training data. Data augmentation is used to artificially increase the diversity of the training dataset by applying random transformations such as rotation, scaling, and flipping to the images. This helps in improving the generalization capability of the model.
