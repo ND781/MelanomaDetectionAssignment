@@ -47,19 +47,6 @@ The break down of the final provided CNN architecture step by step:
 - Pandas - version 2.2.2
 - Seaborn - version 0.13.2
 - Tensorflow - version 2.18.0
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
